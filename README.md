@@ -1,6 +1,6 @@
 # EXPERIMENT NO. 4 – HALF WAVE AND FULL WAVE BRIDGE RECTIFIERS
 
-| **Name:** | LOGAESHWARI S| **Reg. No.:** | 26014878|
+| **Name:** | NITHISHASWIN A| **Reg. No.:** | 26018928|
 |---|---|---|---|
 | **Date:** | | **Batch / Section:** | |
 
